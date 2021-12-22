@@ -2,7 +2,7 @@
 title: "ENEE205: Electric Circuits"
 collection: teaching
 type: "Undergraduate Teaching Fellow"
-permalink: /teaching/enee205
+permalink: # /teaching/enee205
 venue: "University of Maryland"
 date: 2019-08-31
 location: "College Park, MD"

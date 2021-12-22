@@ -2,8 +2,8 @@
 title: "ENEE101: Introduction to ECE"
 collection: teaching
 type: "Graduate Teaching Assistant"
-permalink: /teaching/enee101
-venue: "University 1, Department"
+permalink: # /teaching/enee101
+venue: "University of Maryland"
 date: 2021-08-31
 location: "College Park, MD"
 ---

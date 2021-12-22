@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Work Experience"
+title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
 
-<img src="https://mmoore2017.github.io/images/viridios-ai_logo" width="350">
+<!-- <img src="https://mmoore2017.github.io/images/viridios-ai_logo" width="350"> -->
 
 ## Viridios AI
 ### Data Scientist
@@ -14,7 +14,7 @@ author_profile: true
 -
 -
 
-<img src="https://mmoore2017.github.io/images/ng_logo" width="350">
+<!-- <img src="https://mmoore2017.github.io/images/ng_logo" width="350"> -->
 
 ## Northrop Grumman
 ### Engineering Intern, Embedded Systems

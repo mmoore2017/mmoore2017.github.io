@@ -11,7 +11,7 @@ author_profile: true
 ### Data Scientist
 ### June 2021 - Present
 -
--
+- 
 -
 
 <img src="../images/ng_logo.png" width="350">

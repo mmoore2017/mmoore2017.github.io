@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-<img src="../images/viridios-ai_logo" width="350">
+<img src="../images/viridios-ai_logo.png" width="350">
 
 ## Viridios AI
 ### Data Scientist
@@ -14,7 +14,7 @@ author_profile: true
 -
 -
 
-<img src="../images/ng_logo" width="350">
+<img src="../images/ng_logo.png" width="350">
 
 ## Northrop Grumman
 ### Engineering Intern, Embedded Systems

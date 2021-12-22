@@ -18,7 +18,7 @@ main:
   # - title: "Blog"
   #   url: /blog/
 
-- title: "Experience"
+  - title: "Experience"
     url: /experience/
 
   - title: "Resume"

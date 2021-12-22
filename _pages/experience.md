@@ -22,8 +22,6 @@ author_profile: true
 - Overhauled radar operational flight program with an Agile team of nine developers
 - Implemented an automated regression testing suite, cutting testing time in half
 - Revitalized over 50 built-in-test/calibration capabilities of OFP to meet customer’s needs
-
-## Northrop Grumman
 ### Engineering Intern, Computer Vision
 ### June 2019 - August 2019
 - Assisted in developing real-time overhead vehicle detection system using YOLOv3

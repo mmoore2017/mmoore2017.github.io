@@ -16,9 +16,9 @@ author_profile: true
 
 ## Intern, Data Science
 ### June 2021 - August 2021
-- TODO
-- TODO
-- TODO
+- Converted valuation model from fully-connected to convolutional architecture, reducing model size by 85% while maintaining performance
+- Implemented simultaneous training of pricing model on market and synthetic datasets, optimizing dual loss functions with disparate weights
+- Constructed knowledge graph of carbon offset projects, applied link prediction to compute contributions to UN SDGs
 
 <img src="../images/ng_logo.png" width="350">
 

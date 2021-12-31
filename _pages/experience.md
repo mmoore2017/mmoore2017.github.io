@@ -5,12 +5,13 @@ permalink: /experience/
 author_profile: true
 ---
 
-<img src="../images/viridios-ai_logo.png" width="350">
+<!-- <img src="../images/viridios-ai_logo.png" width="350"> -->
+![Viridios AI Logo](../images/viridios-ai_logo.png "Viridios AI Logo")
 
 # [Viridios AI](https://www.viridios.ai)
 ## Data Scientist
 ### August 2021 - Present
-- Designed natural language pipeline to extract
+- Designed natural language pipeline to extract text from PDFs, generate sentence embeddings, and rate alignment with United Nations Sustainable Development Goals (UN SDGs)
 - TODO
 - TODO
 
@@ -18,9 +19,10 @@ author_profile: true
 ### June 2021 - August 2021
 - Converted valuation model from fully-connected to convolutional architecture, reducing model size by 85% while maintaining performance
 - Implemented simultaneous training of pricing model on market and synthetic datasets, optimizing dual loss functions with disparate weights
-- Constructed knowledge graph of carbon offset projects, applied node embedding and link prediction algorithms to estimate contributions to United Nations Sustainable Development Goals (SDGs)
+- Constructed knowledge graph of carbon offset projects, applied node embedding and link prediction algorithms to estimate contributions to UN SDGs
 
-<img src="../images/ng_logo.png" width="350">
+<!-- <img src="../images/ng_logo.png" width="350"> -->
+![Northrop Grumman Logo](../images/ng_logo.png "Northrop Grumman Logo")
 
 # [Northrop Grumman](https://www.northropgrumman.com)
 ## Intern, Embedded Systems

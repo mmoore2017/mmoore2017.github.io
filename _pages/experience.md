@@ -11,9 +11,8 @@ author_profile: true
 # [Viridios AI](https://www.viridios.ai)
 ## Data Scientist
 ### August 2021 - Present
-- Designed natural language pipeline to extract text from PDFs, generate sentence embeddings, and rate alignment with United Nations Sustainable Development Goals (UN SDGs)
-- TODO
-- TODO
+- Designed natural language pipeline to process unstructured documents, generate sentence embeddings, and rate alignment with United Nations Sustainable Development Goals (UN SDGs)
+- Applied word embedding algorithms to categorical data to automatically assess similarity between carbon offset projects
 
 ## Intern, Data Science
 ### June 2021 - August 2021

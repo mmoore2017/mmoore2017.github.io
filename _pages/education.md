@@ -10,7 +10,7 @@ redirect_from:
 <img src="http://xtian17.github.io/images/university-maryland_logo.png" width="350">
 
 * M.S. in Electrical Engineering, University of Maryland, College Park, 2023 (expected)
-   * GPA: X.XX/4.00
+   * GPA: 3.56/4.00
    * Courses:
         * ENEE620: Random Processing in Communication and Control
         * ENEE630: Advanced Digital Signal Processing

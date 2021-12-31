@@ -5,8 +5,8 @@ permalink: /experience/
 author_profile: true
 ---
 
-<!-- <img src="../images/viridios-ai_logo.png" width="350"> -->
-![Viridios AI Logo](../images/viridios-ai_logo.png "Viridios AI Logo")
+<img src="../images/viridios-ai_logo.png" width="350">
+<!-- ![Viridios AI Logo](../images/viridios-ai_logo.png "Viridios AI Logo") -->
 
 # [Viridios AI](https://www.viridios.ai)
 ## Data Scientist
@@ -21,8 +21,8 @@ author_profile: true
 - Implemented simultaneous training of pricing model on market and synthetic datasets, optimizing dual loss functions with disparate weights
 - Constructed knowledge graph of carbon offset projects, applied node embedding and link prediction algorithms to estimate contributions to UN SDGs
 
-<!-- <img src="../images/ng_logo.png" width="350"> -->
-![Northrop Grumman Logo](../images/ng_logo.png "Northrop Grumman Logo")
+<img src="../images/ng_logo.png" width="350">
+<!-- ![Northrop Grumman Logo](../images/ng_logo.png "Northrop Grumman Logo") -->
 
 # [Northrop Grumman](https://www.northropgrumman.com)
 ## Intern, Embedded Systems

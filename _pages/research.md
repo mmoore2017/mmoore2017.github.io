@@ -6,13 +6,7 @@ author_profile: true
 ---
 
 # Graph Signal Processing
-Graph signal processing
+Graph signal processing (GSP) is relatively new field that takes classical signal processing techniques and generalizes them to signals supported on networks. 
 
 # Acoustic Signal Processing
 Acoustic signal processing
-
-# Machine Learning
-Machine learning
-
-# Data Science
-Data sciences
